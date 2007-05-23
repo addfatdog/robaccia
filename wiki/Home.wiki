@@ -9,3 +9,7 @@ and the parts it is built with.
  * [http://bitworking.org/news/Why_so_many_Python_web_frameworks Why so many Python web frameworks] 
  * [http://bitworking.org/news/wsgicollection WSGICollection]
  * [http://bitworking.org/news/163/WSGIDispatcher WSGIDispatcher]
+
+= Getting Started =
+
+HowToInstall
