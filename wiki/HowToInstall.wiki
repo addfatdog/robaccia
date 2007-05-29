@@ -3,3 +3,9 @@
 
 At this point the code-base is changing too rapidly to warrant
 building releases. Please just [http://code.google.com/p/robaccia/source download the code from subversion].
+
+Then run:
+
+{{{
+$ python setup.py install
+}}}
